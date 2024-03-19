@@ -11,7 +11,7 @@ sh pchw.sh my-new-laptop
 To output tab-separated values:
 
 ```
-sh generate-tsv.sh
+sh generate-tsv.sh my-new-laptop
 LENOVO	ThinkPad T490	20N20042US	Notebook	ABCD1234	1.80	06/21/2023	Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz	No Asset Information
 ```
 
